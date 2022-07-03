@@ -1,0 +1,21 @@
+{
+  "name": "using_puppeteer",
+  "version": "1.0.0",
+  "description": "Web Scraping with Puppeteer & Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "web",
+    "scraping",
+    "puppeteer",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^15.3.0"
+  }
+  }
