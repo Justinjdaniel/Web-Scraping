@@ -1,0 +1,23 @@
+{
+  "name": "using_cheerio",
+  "version": "1.0.0",
+  "description": "a web scrapping sample using cheerio in node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "web",
+    "scrapping",
+    "node",
+    "cheerio"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
