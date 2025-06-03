@@ -1,0 +1,20 @@
+{
+  "name": "playwright_example",
+  "version": "1.0.0",
+  "description": "A Playwright example for scraping quotes.toscrape.com/js/",
+  "main": "scrape_playwright.js",
+  "scripts": {
+    "start": "node scrape_playwright.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "playwright",
+    "web-scraping",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}
